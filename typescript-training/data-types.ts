@@ -108,5 +108,5 @@ console.log("Close the browser");
 function getAccountBalance():(number|string)[]{
     console.log("Navigate to account balance page");
     let accountBalance:(number|string)[]=[100000,"Dineshkumar"];
-    return accountBalance;
+    return accountBalance;   
 }
